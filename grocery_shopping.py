@@ -1,3 +1,7 @@
+########################################################################################################
+# This application was design and build by Jerard Ward
+########################################################################################################
+
 from tkinter import *
 from tkinter.ttk import *
 from tkinter.ttk import Treeview, Combobox
